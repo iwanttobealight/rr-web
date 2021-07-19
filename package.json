@@ -11,7 +11,7 @@
   "devDependencies": {
     "autoprefixer": "^9.6.1",
     "cssnano": "^4.1.10",
-    "eslint": "^6.5.0",
+    "eslint": "^7.31.0",
     "eslint-config-recommended": "^4.0.0",
     "eslint-plugin-auto-import": "^0.1.0",
     "husky": "^3.0.7",
